@@ -20,7 +20,7 @@ The predicted and ground-truth structures are shown in opaque and semi-transpare
 <br><br>
 <br><br>
 ## Acknowledgement <br><br>
-The training framework is based on Fastai's miniai library.
+The training framework is based on [Fastai](https://github.com/fastai)'s miniai library.
 
 
 
