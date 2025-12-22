@@ -1,0 +1,11 @@
+torch==2.3.0
+torch-geometric==2.5.3
+torcheval==0.0.7
+fastai==2.7.15
+fastcore==1.5.33
+fastprogress==1.0.3
+einops==0.8.0
+numpy==1.26.4
+matplotlib==3.8.4
+pandas==2.2.1
+gdown==5.2.0
