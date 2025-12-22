@@ -1,0 +1,23 @@
+name: molexa_env
+channels:
+  - pytorch
+  - nvidia
+  - fastai
+  - conda-forge
+dependencies:
+  - python=3.12.2
+  - pytorch=2.3.0
+  - pytorch-cuda=12.1
+  - cudnn=8.9.2
+  - fastai=2.7.15
+  - fastcore=1.5.33
+  - fastprogress=1.0.3
+  - numpy=1.26.4
+  - pandas=2.2.1
+  - matplotlib=3.8.4
+  - gdown=5.2.0
+  - pip
+  - pip:
+      - torch-geometric==2.5.3
+      - torcheval==0.0.7
+      - einops==0.8.0
